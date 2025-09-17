@@ -87,6 +87,28 @@ Esto es una seccion de ejemplo de enlace interno
 ## Menciones a 
 
 
+| Alineado a la izq 1 | Alineado al centro | Alineado a la derecha |
+| :--- | :---: | ---: | 
+| Dato1 | Dato1 | Dato1 |
+| Dato1 | Dato1 | Dato1 |
+
+
+<details>
+  <summary>Este es el resume de la seccion desplegables</summary>
+   aqui sale todo lo de dentro 
+  ![gatos](https://s1.ppllstatics.com/lasprovincias/www/multimedia/202112/12/media/cortadas/gatos-kb2-U160232243326NVC-1248x770@Las%20Provincias.jpg)
+</details>
+
+<details>
+  <summary>¿Cual sintaxiks Python para imprimir por panatalla</summary> 
+
+  ```python
+print('texto')
+```
+
+</details>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palmasd/palmasd/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palmasd/palmasd/output/pacman-contribution-graph.svg">
