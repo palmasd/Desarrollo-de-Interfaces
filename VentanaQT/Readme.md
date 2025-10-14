@@ -119,7 +119,17 @@ Para usar este proyecto en tu máquina local, sigue estos pasos:
     ```
 
     Esto abrirá la ventana de la aplicación "Hola Mundo".
-    
+
 # 10. Problemas frecuentes y cómo resolverlos
 
 - No tuve problemas porque seguí la guia en clase 
+
+
+
+# CheckList 
+- [x] He creado y activado el venv.
+- [x] He instalado PySide6 y generado requirements.txt.
+- [x] He separado main.py y ventana.py.
+- [x] He incluido bloques de código con comentarios.
+- [x] He explicado QApplication, widgets y app.exec().
+- [x] He probado la app y documentado la ejecución.
