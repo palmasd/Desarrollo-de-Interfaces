@@ -72,9 +72,54 @@ sin este bucle de eventos el script se ejecutaria de principio a fin en unos seg
 
 # 8. Ejecución y prueba
 
-- comandos para ejecutar: Ctrl + ñ para abrir la terminal y una vez dentro del proyecto ejecutar el comando "python main.py"
+- comandos para ejecutar: Ctrl + ñ para abrir la terminal y una vez dentro del proyecto ejecutar el comando `python main.py`
 - se tiene que ver algo como esto ![alt text](image.png)
 
-# 9. Problemas frecuentes y cómo resolverlos
+# 9. Instalación desde cero clonando el repositorio
+
+-- clone
+Para usar este proyecto en tu máquina local, sigue estos pasos:
+
+1.  **Clona el repositorio:**
+    Abre una terminal y ejecuta el siguiente comando:
+    ```bash
+    git clone https://github.com/palmasd/Desarrollo-de-Interfaces.git
+    ```
+2.  **Navega a la carpeta del proyecto:**
+    ```bash
+    cd Desarrollo-de-Interfaces/VentanaQT
+    ```
+3.  **Crea y activa un entorno virtual:**
+    Esto aísla las dependencias del proyecto.
+    ```bash
+    # Crear el entorno
+    python -m venv venv
+    
+    # Activar en Windows
+    .\venv\Scripts\activate
+    
+    # Activar en macOS/Linux
+    source venv/bin/activate
+    ```
+4.  **Instala las dependencias:**
+    Usa el archivo `requirements.txt` para instalar todas las librerías necesarias.
+
+    ```bash
+
+    pip install -r requirements.txt
+
+    ```
+
+5.  **Ejecuta la aplicación:**
+
+    ```bash
+
+    python main.py
+
+    ```
+
+    Esto abrirá la ventana de la aplicación "Hola Mundo".
+    
+# 10. Problemas frecuentes y cómo resolverlos
 
 - No tuve problemas porque seguí la guia en clase 
