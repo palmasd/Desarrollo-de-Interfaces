@@ -1,3 +1,4 @@
+# Índice
 * [1. Mi primer hola mundo con PySdie6](#mi-primer-hola-mundo-con-pysdie6)
 * [2. Objetivo de aprendiza](#2-objetivo-de-aprendiza)
 * [3. Requisitos previos](#3-requisitos-previos)
@@ -28,9 +29,9 @@ Usaremos una clase ventana y desde el main llamaremos a la ventana.
 
 # 4. Creación y activacion del entorno virtual
 
-- Comandos para crear un Entorno virtual: python -m venv venv
-- Comandos para activar el entorno virtual: venv\Scripts\activate
-- Comandos para desactivar el entorno virtual: deactivate
+- Comandos para crear un Entorno virtual: `python -m venv venv`
+- Comandos para activar el entorno virtual: `venv\Scripts\activate`
+- Comandos para desactivar el entorno virtual: `deactivate`
 - Comando para verificar version de python: python --version
 
 # 5. Instalación de dependencias
@@ -40,7 +41,7 @@ Usaremos una clase ventana y desde el main llamaremos a la ventana.
 - PySide6 pertenece a la libreria de QT de Widgets la cual es principalmente utilizada para crear interfaces de usuarios, pueden mostrar informacion de estado, recibir entradas del usuario y proporcionar un contenedor para otros widgets que deben agruparse
 
 # 6. Estructura mínima de carpetas y archivos 
-
+```
 proyecto-VentanaQT/
  ├─ venv
  ├─ src/
@@ -49,6 +50,7 @@ proyecto-VentanaQT/
  ├─ .gitignore
  ├─ requirements.txt
  └─ README.md
+```
 
  - Separamos la logica en la cual la clase ventana se va a encargar de introducir los datos de la ventana y la clase main se encarga de generar el arranque de la ventana
 
