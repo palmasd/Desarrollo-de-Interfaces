@@ -1,12 +1,12 @@
 * [1. Mi primer hola mundo con PySdie6](#mi-primer-hola-mundo-con-pysdie6)
 * [2. Objetivo de aprendiza](#2-objetivo-de-aprendiza)
 * [3. Requisitos previos](#3-requisitos-previos)
-* [4. Creación y activacion del entorno virtual](#4-creacion-y-activacion-del-entorno-virtual)
-* [5. Instalación de dependencias](#5-instalacion-de-dependencias)
-* [6. Estructura mínima de carpetas y archivos](#6-estructura-minima-de-carpetas-y-archivos)
-* [7. Código fuente(explicacion línea a línea)](#7-codigo-fuente)
-* [8. Ejecución y prueba](#8-ejecucion-y-prueba)
-* [9. Problemas frecuentes y cómo resolverlos](#9-problemas-frecuentes-y-como-resolverlos)
+* [4. Creación y activacion del entorno virtual](#4-creación-y-activacion-del-entorno-virtual)
+* [5. Instalación de dependencias](#5-instalación-de-dependencias)
+* [6. Estructura mínima de carpetas y archivos](#6-estructura-mínima-de-carpetas-y-archivos)
+* [7. Código fuente(explicacion línea a línea)](#7-código-fuenteexplicacion-línea-a-línea)
+* [8. Ejecución y prueba](#8-ejecución-y-prueba)
+* [9. Problemas frecuentes y cómo resolverlos](#9-problemas-frecuentes-y-cómo-resolverlos)
 
 
 # 1. Mi primer hola mundo con PySdie6
