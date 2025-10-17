@@ -5,7 +5,7 @@ def create( parent=None):
     box= QGroupBox("Mi label")
     layout = QVBoxLayout(box)
 
-    label = QLabel("hola, este es mi Qlabel")
+    label = QLabel("hola, esñe es mi Qlabel")
     label.setAlignment(Qt.AlignCenter | Qt.AlignVCenter)
     
     info_label = QLabel("Señales: -Ninguna | Metodos: setTex(str), setAlignment(...)")
