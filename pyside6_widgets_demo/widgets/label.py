@@ -14,5 +14,7 @@ def create( parent=None):
     layout.addWidget(label)
     layout.addWidget(info_label)
 
+    exposed = {"label_header": label}
+
     return box
 
