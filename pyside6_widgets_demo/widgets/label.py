@@ -16,5 +16,5 @@ def create( parent=None):
 
     exposed = {"label_header": label}
 
-    return box
+    return box, exposed
 
